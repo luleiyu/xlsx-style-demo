@@ -1,21 +1,11 @@
-# test-project
+# 融合了xlsx以及xlsx-style，还有jszip，3.0版本以上的使用，可以导出的表格，带有行高，宽，字体的颜色，大小，背景色
 
-> A Vue.js project
+> A Vue.js DEMO xlsx-style-luleiyu
 
 ## Build Setup
 
-``` bash
-# install dependencies
-npm install
+### demo文件里，src下面的vendor和utils里面的文件都是可以直接复制走使用的，是直接复制文件夹，拿走用，要不然，你还需要自己改utils里面的路径
 
-# serve with hot reload at localhost:8080
-npm run dev
+### 使用方法，在components里面用了，可以参考怎么使用的
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 这个文件里的可以改的东西，比较多，如果这个demo没有你想要的功能，那就需要自己看看代码，去研究，怎么传参，怎么改数据结构，实现你自己的需求
