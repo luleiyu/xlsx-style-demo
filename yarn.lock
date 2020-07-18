@@ -3912,9 +3912,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.11, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.3, lodash@^4.17.4:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-symbols@^2.1.0:
   version "2.2.0"
@@ -7164,10 +7164,10 @@ ws@^4.0.0:
     async-limiter "~1.0.0"
     safe-buffer "~5.1.0"
 
-xlsx-style-luleiyu@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/xlsx-style-luleiyu/-/xlsx-style-luleiyu-0.0.3.tgz#be9d028fe5a544b4a2ccd42271d197aba2c8fd32"
-  integrity sha512-ITe8KuL0Cq3EGng0Ych2R1eUhUi5QxRvYhK4TpCWYCuVXbYUVyVpw5BB/ngqXu1Qc7rkthc8mTYz8qYvqESe6Q==
+xlsx-style-luleiyu@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/xlsx-style-luleiyu/-/xlsx-style-luleiyu-0.0.6.tgz#164951a88693bf80ad3b3a170b130e0bec3caaed"
+  integrity sha512-2+r/hWfUnvVBo/TTkU8nmvRXWAyeiyi6IPCyvdTWOf13YiwfA5v2MidaEArByPf8ud0ZZIXSy66uuWi7HabLWg==
   dependencies:
     adler-32 ""
     cfb ">=0.10.0"
