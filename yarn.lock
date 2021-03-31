@@ -7164,10 +7164,10 @@ ws@^4.0.0:
     async-limiter "~1.0.0"
     safe-buffer "~5.1.0"
 
-xlsx-style-luleiyu@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/xlsx-style-luleiyu/-/xlsx-style-luleiyu-0.0.3.tgz#be9d028fe5a544b4a2ccd42271d197aba2c8fd32"
-  integrity sha512-ITe8KuL0Cq3EGng0Ych2R1eUhUi5QxRvYhK4TpCWYCuVXbYUVyVpw5BB/ngqXu1Qc7rkthc8mTYz8qYvqESe6Q==
+xlsx-style-luleiyu@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/xlsx-style-luleiyu/-/xlsx-style-luleiyu-0.0.6.tgz#164951a88693bf80ad3b3a170b130e0bec3caaed"
+  integrity sha512-2+r/hWfUnvVBo/TTkU8nmvRXWAyeiyi6IPCyvdTWOf13YiwfA5v2MidaEArByPf8ud0ZZIXSy66uuWi7HabLWg==
   dependencies:
     adler-32 ""
     cfb ">=0.10.0"
@@ -7206,9 +7206,9 @@ xxhashjs@^0.2.1:
     cuint "^0.2.2"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 y18n@^4.0.0:
   version "4.0.0"
