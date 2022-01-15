@@ -6105,10 +6105,10 @@ shebang-regex@^1.0.0:
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-1.0.0.tgz#da42f49740c0b42db2ca9728571cb190c98efea3"
   integrity sha1-2kL0l0DAtC2yypcoVxyxkMmO/qM=
 
-shelljs@^0.7.6:
-  version "0.7.8"
-  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.7.8.tgz#decbcf874b0d1e5fb72e14b164a9683048e9acb3"
-  integrity sha1-3svPh0sNHl+3LhSxZKloMEjprLM=
+shelljs@^0.8.5:
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.5.tgz#de055408d8361bed66c669d2f000538ced8ee20c"
+  integrity sha512-TiwcRcrkhHvbrZbnRcFYMLl30Dfov3HKqzp5tO5b4pt6G/SezKcYhmDg15zXVBswHmctSAQKznqNW2LO5tTDow==
   dependencies:
     glob "^7.0.0"
     interpret "^1.0.0"
@@ -7164,10 +7164,10 @@ ws@^4.0.0:
     async-limiter "~1.0.0"
     safe-buffer "~5.1.0"
 
-xlsx-style-luleiyu@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/xlsx-style-luleiyu/-/xlsx-style-luleiyu-0.0.3.tgz#be9d028fe5a544b4a2ccd42271d197aba2c8fd32"
-  integrity sha512-ITe8KuL0Cq3EGng0Ych2R1eUhUi5QxRvYhK4TpCWYCuVXbYUVyVpw5BB/ngqXu1Qc7rkthc8mTYz8qYvqESe6Q==
+xlsx-style-luleiyu@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/xlsx-style-luleiyu/-/xlsx-style-luleiyu-0.0.6.tgz#164951a88693bf80ad3b3a170b130e0bec3caaed"
+  integrity sha512-2+r/hWfUnvVBo/TTkU8nmvRXWAyeiyi6IPCyvdTWOf13YiwfA5v2MidaEArByPf8ud0ZZIXSy66uuWi7HabLWg==
   dependencies:
     adler-32 ""
     cfb ">=0.10.0"
